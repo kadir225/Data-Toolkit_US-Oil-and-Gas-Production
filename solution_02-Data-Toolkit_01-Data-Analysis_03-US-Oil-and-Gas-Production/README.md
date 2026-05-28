@@ -1,4 +1,5 @@
 ABD Petrol ve Gaz Üretimi Analizi
+
 Bu projede, Haziran 2008 – Haziran 2018 dönemine ait ABD doğal gaz ve ham petrol üretim verilerini analiz ederek kapsamlı bir zaman serisi ve agregasyon çalışması gerçekleştirdim. Proje boyunca Kaggle'dan aldığım ham verileri temizledim ve anlamlı grafiklere dönüştürdüm. Dataset[available on Kaggle](https://www.kaggle.com/djzurawski/us-oil-and-gas-production-june-2008-to-june-2018)
 
 
